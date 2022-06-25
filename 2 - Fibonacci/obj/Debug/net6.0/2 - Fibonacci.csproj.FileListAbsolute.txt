@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\2 - Fibonacci\bin\Debug\net6.0\2 - Fibonacci.exe
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\2 - Fibonacci\bin\Debug\net6.0\2 - Fibonacci.deps.json
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\2 - Fibonacci\bin\Debug\net6.0\2 - Fibonacci.runtimeconfig.json
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\2 - Fibonacci\bin\Debug\net6.0\2 - Fibonacci.dll
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\2 - Fibonacci\bin\Debug\net6.0\2 - Fibonacci.pdb
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\2 - Fibonacci\obj\Debug\net6.0\2 - Fibonacci.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\2 - Fibonacci\obj\Debug\net6.0\2 - Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\2 - Fibonacci\obj\Debug\net6.0\2 - Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\2 - Fibonacci\obj\Debug\net6.0\2 - Fibonacci.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\2 - Fibonacci\obj\Debug\net6.0\2 - Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\2 - Fibonacci\obj\Debug\net6.0\2 - Fibonacci.dll
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\2 - Fibonacci\obj\Debug\net6.0\refint\2 - Fibonacci.dll
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\2 - Fibonacci\obj\Debug\net6.0\2 - Fibonacci.pdb
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\2 - Fibonacci\obj\Debug\net6.0\2 - Fibonacci.genruntimeconfig.cache
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\2 - Fibonacci\obj\Debug\net6.0\ref\2 - Fibonacci.dll

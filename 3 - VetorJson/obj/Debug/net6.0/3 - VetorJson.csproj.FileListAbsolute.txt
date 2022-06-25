@@ -1,0 +1,17 @@
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\3 - VetorJson\obj\Debug\net6.0\3 - VetorJson.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\3 - VetorJson\obj\Debug\net6.0\3 - VetorJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\3 - VetorJson\obj\Debug\net6.0\3 - VetorJson.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\3 - VetorJson\obj\Debug\net6.0\3 - VetorJson.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\3 - VetorJson\obj\Debug\net6.0\3 - VetorJson.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\3 - VetorJson\bin\Debug\net6.0\3 - VetorJson.exe
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\3 - VetorJson\bin\Debug\net6.0\3 - VetorJson.deps.json
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\3 - VetorJson\bin\Debug\net6.0\3 - VetorJson.runtimeconfig.json
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\3 - VetorJson\bin\Debug\net6.0\3 - VetorJson.dll
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\3 - VetorJson\bin\Debug\net6.0\3 - VetorJson.pdb
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\3 - VetorJson\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\3 - VetorJson\obj\Debug\net6.0\3 - VetorJson.csproj.CopyComplete
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\3 - VetorJson\obj\Debug\net6.0\3 - VetorJson.dll
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\3 - VetorJson\obj\Debug\net6.0\refint\3 - VetorJson.dll
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\3 - VetorJson\obj\Debug\net6.0\3 - VetorJson.pdb
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\3 - VetorJson\obj\Debug\net6.0\3 - VetorJson.genruntimeconfig.cache
+C:\Users\Gustavo\Documents\Gustavo TI\Programação\C#\TesteVaga\3 - VetorJson\obj\Debug\net6.0\ref\3 - VetorJson.dll
